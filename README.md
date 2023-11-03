@@ -1,13 +1,10 @@
+  <h1 align="center">👋 LatinXR </h1>
 <p align="center">
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Realidad%20Virtual;Diseño%20de%20ambientes%20en%203D;Realidad%20Aumentada;Programación%20fácil%20y%20práctica&font=Fira%20Code&center=true&width=440&height=45&color=96c18b&vCenter=false&pause=1000&size=25" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospace&size=25&duration=4000&pause=500&color=95C08A&background=FF600E00&center=true&multiline=true&repeat=false&random=false&width=435&height=152&lines=Realidad+Virtual;Realidad+Aumentada;Tecnolog%C3%ADas+Emergentes;Programaci%C3%B3n+f%C3%A1cil+y+pr%C3%A1ctica" alt="Typing SVG" /></a>
 </p>
 
-👋 ¡Saludos! Soy @LatinXR.
-
-🌱 Mi pasión es crear contenido relacionado con la realidad extendida para explorar sus diversas aplicaciones y compartirlas con la comunidad.
+🌱 Creo contenido sobre realidad extendida y tecnologías emergentes para explorar sus diversas aplicaciones y compartirlas con la comunidad.
 
 📺  Visita mi canal de [YouTube](https://youtube.com/@LatinXR?si=H1-o7RvjB5nUSQb5).
 
-🌳 O consulta mi [LinkTree](https://linktr.ee/latinxr) para explorar más recursos.
+🌳 Consulta mi [LinkTree](https://linktr.ee/latinxr) para explorar más recursos.
